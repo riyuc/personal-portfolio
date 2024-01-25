@@ -4,6 +4,7 @@ import Image from "next/image";
 import Header from "../components/header";
 import { Separator } from "../components/ui/separator";
 import { useState } from "react";
+import DucAnhNguyen from "../components/duc-anh-nguyen";
 
 export default function Home() {
   const [liyuchi,setLiyuchi] = useState('true');

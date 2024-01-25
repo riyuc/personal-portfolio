@@ -1,4 +1,5 @@
 import React from 'react'
+import { Project, Education, } from '../app/types/types'
 
 const projects: Project[] = [
     {
